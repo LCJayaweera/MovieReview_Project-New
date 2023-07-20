@@ -1,4 +1,4 @@
-package com.lakjay.movies;
+package com.lakjay.movies.Repositories;
 
 import com.lakjay.movies.DocumentRead.Movie;
 import org.bson.types.ObjectId;
